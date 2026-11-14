@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Interview",
+  "description": "AI-powered interview assistant for tailored resume-based mock interviews, interactive Q&A, and structured performance debriefs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
